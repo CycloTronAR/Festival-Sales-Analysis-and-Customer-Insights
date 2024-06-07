@@ -1,6 +1,6 @@
 # Festival-Sales-Analysis-and-Customer-Insights
 
-#Project Conclusion#
+## Project Conclusion
 
 - Performed data cleaning and manipulation.
 - Performed exploratory data analysis (EDA) using pandas, matplotlib, and seaborn libraries.
